@@ -7278,7 +7278,7 @@
             sizes: "152x152",
           },
         ],
-        m = [{ rel: "manifest", href: "/manifest.json" }],
+        m = [{ rel: "manifest", href: "./manifest.json" }],
         y = { isEnabled: !1, isPublic: !0, collaborations: "" },
         b = {
           floorplan: {
@@ -20891,4 +20891,4 @@
       (_N_E = e.O());
   },
 ]);
-//# sourceMappingURL=_app-af6cafef9940971e.js.map
+//# sourceMappingURL=app-af6cafef9940971e.js.map
