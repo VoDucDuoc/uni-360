@@ -1215,35 +1215,35 @@ define(["./workbox-588899ac"], function (e) {
           revision: "ed6856898ff2555123e4d7b08f0aec4a",
         },
         {
-          url: "/next/static/css/5127ebc978e83226.css",
+          url: "./next/static/css/5127ebc978e83226.css",
           revision: "5127ebc978e83226",
         },
         {
-          url: "/next/static/css/5127ebc978e83226.css.map",
+          url: "./next/static/css/5127ebc978e83226.css.map",
           revision: "c19fdddb750538329089f4718f4cfd48",
         },
         {
-          url: "/next/static/css/5af564864d18eadd.css",
+          url: "./next/static/css/5af564864d18eadd.css",
           revision: "5af564864d18eadd",
         },
         {
-          url: "/next/static/css/5af564864d18eadd.css.map",
+          url: "./next/static/css/5af564864d18eadd.css.map",
           revision: "45fa3e83ffcfa9ea86d22813a6749d5d",
         },
         {
-          url: "/next/static/css/66d0b607c696fb79.css",
+          url: "./next/static/css/66d0b607c696fb79.css",
           revision: "66d0b607c696fb79",
         },
         {
-          url: "/next/static/css/66d0b607c696fb79.css.map",
+          url: "./next/static/css/66d0b607c696fb79.css.map",
           revision: "999d697332c60e584ebe6c68e9e43ee0",
         },
         {
-          url: "/next/static/panoee-build-id/buildManifest.js",
+          url: "./next/static/panoee-build-id/buildManifest.js",
           revision: "f5221284b038423810ebe47508dabe86",
         },
         {
-          url: "/next/static/panoee-build-id/ssgManifest.js",
+          url: "./next/static/panoee-build-id/ssgManifest.js",
           revision: "b6652df95db52feb4daf4eca35380933",
         },
       ],
