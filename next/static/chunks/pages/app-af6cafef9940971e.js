@@ -8501,6 +8501,15 @@
                   if (
                     (i.trys.push([1, 7, , 9]),
                     (n = ""),
+                    (n = t.isPayment
+                      ? "project/getPaymentPublic?id=".concat(t.id)
+                      : t.isPublic
+                      ? "project/getPublic?".concat(
+                          t.domain
+                            ? "domain=".concat(t.domain)
+                            : "slug=".concat(t.id)
+                        )
+                      : "project/getPreview?slug=".concat(t.id)),
                     !t.isPublic)
                   )
                     return [3, 3];
