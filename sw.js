@@ -139,11 +139,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "5a8e509ee2beb0bd9d1300f8c6bcda5b",
         },
         {
-          url: "/next/static/chunks/1895.f971217b2b72c546.js",
+          url: "./next/static/chunks/1895.f971217b2b72c546.js",
           revision: "f971217b2b72c546",
         },
         {
-          url: "/next/static/chunks/1895.f971217b2b72c546.js.map",
+          url: "./next/static/chunks/1895.f971217b2b72c546.js.map",
           revision: "8b36b54aaff00ef9c88673f261ec5c08",
         },
         {
