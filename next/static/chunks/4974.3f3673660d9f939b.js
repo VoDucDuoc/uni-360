@@ -706,40 +706,7 @@
               [y]
             );
           return (
-            (0, r.useEffect)(
-              function () {
-                if (N && !C) {
-                  if (p) {
-                    var n = ""
-                      .concat("/collaboration", "?tour=")
-                      .concat(S.query.tour, "&scene=")
-                      .concat(N.id);
-                    v.sk || window.history.pushState(null, null, n);
-                  } else
-                    s
-                      ? window.history.pushState(
-                          null,
-                          null,
-                          "".concat("", "/uni-360/?scene=").concat(N.id)
-                        )
-                      : S.push(
-                          u
-                            ? ""
-                                .concat("", "/")
-                                .concat(S.query.tour, "/")
-                                .concat(N.id)
-                            : ""
-                                .concat("/preview", "?tour=")
-                                .concat(S.query.tour, "&scene=")
-                                .concat(N.id),
-                          void 0,
-                          { shallow: !0 }
-                        );
-                  I();
-                }
-              },
-              [N]
-            ),
+            (0, r.useEffect),
             (0, r.useEffect)(
               function () {
                 null === ni && (null == _ ? void 0 : _.id) && nu();
