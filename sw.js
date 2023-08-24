@@ -139,11 +139,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "5a8e509ee2beb0bd9d1300f8c6bcda5b",
         },
         {
-          url: "../next/static/chunks/1895.f971217b2b72c546.js",
+          url: "./next/static/chunks/1895.f971217b2b72c546.js",
           revision: "f971217b2b72c546",
         },
         {
-          url: "../next/static/chunks/1895.f971217b2b72c546.js.map",
+          url: "./next/static/chunks/1895.f971217b2b72c546.js.map",
           revision: "8b36b54aaff00ef9c88673f261ec5c08",
         },
         {
@@ -403,11 +403,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "5938a20c6fdaa368ff2cbc9ae65bb86b",
         },
         {
-          url: "../next/static/chunks/3953.86fe5280530996f3.js",
+          url: "./next/static/chunks/3953.86fe5280530996f3.js",
           revision: "86fe5280530996f3",
         },
         {
-          url: "../next/static/chunks/3953.86fe5280530996f3.js.map",
+          url: "./next/static/chunks/3953.86fe5280530996f3.js.map",
           revision: "fce493331e7ef052c8a092b870c97ec8",
         },
         {
@@ -483,11 +483,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "3f7a2adcb70610a2dbae68fd40a6d377",
         },
         {
-          url: "../next/static/chunks/4509.5efcf56a0d12efcf.js",
+          url: "./next/static/chunks/4509.5efcf56a0d12efcf.js",
           revision: "5efcf56a0d12efcf",
         },
         {
-          url: "../next/static/chunks/4509.5efcf56a0d12efcf.js.map",
+          url: "./next/static/chunks/4509.5efcf56a0d12efcf.js.map",
           revision: "0cd0794bd6cc070e0cb3703f656f559e",
         },
         {
@@ -611,11 +611,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "7c7c5c031f6ae2d4e92551826eb75797",
         },
         {
-          url: "../next/static/chunks/5781.ee3cb52d687ed021.js",
+          url: "./next/static/chunks/5781.ee3cb52d687ed021.js",
           revision: "ee3cb52d687ed021",
         },
         {
-          url: "../next/static/chunks/5781.ee3cb52d687ed021.js.map",
+          url: "./next/static/chunks/5781.ee3cb52d687ed021.js.map",
           revision: "2fb304363e6f84be17e95d227264fc02",
         },
         {
@@ -987,11 +987,11 @@ define(["./workbox-588899ac"], function (e) {
           revision: "40033a1fc3497148ad6b757edfbc899d",
         },
         {
-          url: "../next/static/chunks/9505.844f4915252ab88a.js",
+          url: "./next/static/chunks/9505.844f4915252ab88a.js",
           revision: "844f4915252ab88a",
         },
         {
-          url: "../next/static/chunks/9505.844f4915252ab88a.js.map",
+          url: "./next/static/chunks/9505.844f4915252ab88a.js.map",
           revision: "879b008cf2e6d87363702e77dc262ae4",
         },
         {
